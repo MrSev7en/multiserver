@@ -1,6 +1,6 @@
 # Multiserver
 
-[![Build Status](https://github.com/MrSev7en/multiserver)](https://github.com/MrSev7en/multiserver)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/MrSev7en/multiserver)
 
 ## What Is
 
