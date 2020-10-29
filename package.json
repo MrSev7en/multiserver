@@ -1,10 +1,10 @@
 {
   "name": "multiserver",
   "version": "1.0.0",
-  "description": "The Multiserver typescript example.",
+  "description": "Multiserver is a TypeScript with Express example.",
   "main": "./src/index.ts",
   "scripts": {
-    "dev": "nodemon --exec sucrase-node ./index.ts"
+    "dev": "nodemon --exec sucrase-node ./src/index.ts"
   },
   "author": "MrSev7en (mrsev7en.official@gmail.com)",
   "license": "MIT",
