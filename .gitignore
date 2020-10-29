@@ -1,7 +1,0 @@
-.env,
-.eslintrc.*,
-.prettierrc,
-.prettierrc.*,
-.node_modules/,
-.node_modules/*,
-.node_modules/**/*
