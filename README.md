@@ -17,7 +17,7 @@ Multiserver is a TypeScript and Express server example, to you that is starting 
 🐦 Twitter: [@MrSev7en](https://twitter.com/MrSev7en/)
 
 ## License
-This project particularly don't have restrictions. Community help will be great, if you wanna help us with your modification, send in [Pull requests](https://github.com/MrSev7en/multiserver/pulls).
+This project particularly don't have restrictions. Community help will be great, if you wanna help me with your modification, send in [Pull requests](https://github.com/MrSev7en/multiserver/pulls).
 
 But the license is [MIT](https://github.com/MrSev7en/multiserver/blob/master/LICENSE), check clicking in link.
 
