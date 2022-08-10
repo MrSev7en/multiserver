@@ -1,24 +1,26 @@
 # Multiserver
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/MrSev7en/multiserver)
+<div>
+  <p>
+    <a href="https://github.com/MrSev7en/ultimate-most-advanced">
+      <img src="https://badgen.net/badge/build/passing/green">
+    </a>
+  </p>
+</div>
 
-## What Is
+🚀 Multiserver is an typescript server example.
 
-Multiserver is a TypeScript and Express server example, to you that is starting at TypeScript and Express.
+## Functions
+💻 This project is very basic and just includes these functions:
 
-  - Easy Peasy to use
-  - Integrated simple route manager
-  - Fantastic
+- CORS supressing
+- Simple route management
 
-## Help Me
-🏗️ If you finded a bug or something like, put in [Issues](https://github.com/MrSev7en/multiserver/issues), detail then, and tell me everything thats happen.
+## Issues
+🏗️ Collaborate with me sending [issues](https://github.com/MrSev7en/multiserver/issues)
 
-## Social Medias
+## Socials
 🐦 Twitter: [@MrSev7en](https://twitter.com/MrSev7en/)
 
 ## License
-This project particularly don't have restrictions. Community help will be great, if you wanna help me with your modification, send in [Pull requests](https://github.com/MrSev7en/multiserver/pulls).
-
-But the license is [MIT](https://github.com/MrSev7en/multiserver/blob/main/LICENSE), check clicking in link.
-
-If you wanna share this, please give me copyright.
+This project was based on [MIT](https://github.com/MrSev7en/multiserver/blob/master/LICENSE) license.
