@@ -11,7 +11,7 @@
 🚀 Multiserver is an typescript server example.
 
 ## Functions
-💻 This project is very basic and just includes these functions:
+💻 This project is very basic, it was make using express and just includes these functions:
 
 - CORS supressing
 - Simple route management
