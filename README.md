@@ -2,7 +2,7 @@
 
 <div>
   <p>
-    <a href="https://github.com/MrSev7en/ultimate-most-advanced">
+    <a href="https://github.com/MrSev7en/multiserver">
       <img src="https://badgen.net/badge/build/passing/green">
     </a>
   </p>
